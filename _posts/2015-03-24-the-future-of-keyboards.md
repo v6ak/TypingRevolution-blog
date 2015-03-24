@@ -10,7 +10,7 @@ While many people may find the QWERTY (QWERTZ, AZERTY, …) layout to be ineffic
 There have, however, been some conservative attempts to change keyboard layout. Traditional typewriter keyboards have [a staggered layout for a reason](https://ux.stackexchange.com/questions/40390/why-are-keyboard-keys-staggered/40403#40403). They have been created that way neither for convenience nor for accuracy. It was simply difficult to construct an typewriter with a non-staggered layout. Nowadays, typewriters are gone, but most computer keyboards still have the staggered layout, although that is not always true for mobile phones and tablets. For example, on the iPhone QWERTY keyboard, you can find “Z” exactly under “S”. On a typical staggered QWERTY keyboard, “Z” is under “A” and “S”. Blackberry phones also have a columnar (non-staggered) keyboard layout.
 
 <figure>
-	<img src="staggering.png">
+	<img src="staggering.png" height="492" width="797" alt="Example of staggering" class="img-responsive">
 	<figcaption>Staggering may even differ within one keyboard, e.g. between portrait and landscape orientations.</figcaption>
 </figure>
 
