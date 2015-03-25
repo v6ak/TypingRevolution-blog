@@ -1,5 +1,5 @@
 ---
-title: The Future of Keyboards
+title: The Future of Phone and Tablet Keyboards
 ---
 Keyboards have been developed over many years. The development – from typewriters through personal computers to today’s phones and tablets – has been, however, rather conservative. Nobody has succeeded in coming up with something completely different from previous keyboards, because only few users wanted to entirely change their habits. Therefore, if we want to bring about a revolution, we need to be unorthodox in some ways but, *in others, we need to remain conservative*. Now, let us reveal what you can expect from our project.
 
